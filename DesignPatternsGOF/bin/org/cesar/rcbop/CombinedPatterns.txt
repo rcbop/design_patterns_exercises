@@ -1,0 +1,8 @@
+Facade + Command
+Observer + Singleton + Strategy
+Strategy + Command
+Factory + Adapter ( Factory can return adapted objects )
+AbastractFactory + Command
+Strategy + AbstractFactory (The factory pipeline can be defined by a strategy)
+Command + Observer
+Observer + Command + Factory + Facade + Strategy
