@@ -1,4 +1,4 @@
-design_patterns
+design_patterns_exercises
 ===============
 
-Estudo dos padrões de projeto do GOF.
+Devry (FBV) graduation discipline exercises
